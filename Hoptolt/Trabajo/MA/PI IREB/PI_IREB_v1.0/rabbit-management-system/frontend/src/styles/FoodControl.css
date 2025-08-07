@@ -1,0 +1,198 @@
+.food-control-container {
+  background: #fff;
+  padding: 32px 36px;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px #1abc9c22;
+  max-width: 1100px;
+  margin: 40px auto;
+}
+
+.food-control-container h2 {
+  text-align: center;
+  color: #1abc9c;
+  margin-bottom: 24px;
+}
+
+.search-section {
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.search-section label {
+  font-weight: 500;
+  color: #34495e;
+}
+
+.search-section input[type="text"] {
+  flex: 1;
+  padding: 7px 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 5px;
+  font-size: 1rem;
+  background: #f9fafb;
+  transition: border 0.2s;
+}
+
+.buttons-section {
+  margin-bottom: 18px;
+  display: flex;
+  gap: 12px;
+}
+
+.submit-btn {
+  background: linear-gradient(90deg, #1abc9c 60%, #16a085 100%);
+  color: #fff;
+  border: none;
+  padding: 10px 28px;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+  font-weight: bold;
+  box-shadow: 0 2px 8px #1abc9c22;
+  letter-spacing: 0.5px;
+  position: relative;
+  overflow: hidden;
+}
+
+.submit-btn:hover {
+  background: linear-gradient(90deg, #16a085 60%, #1abc9c 100%);
+  box-shadow: 0 4px 16px #1abc9c33;
+}
+
+.table-responsive {
+  overflow-x: auto;
+  margin-bottom: 24px;
+}
+
+.rabbit-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 0;
+  background: #f9fafb;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px #1abc9c11;
+}
+
+.rabbit-table th,
+.rabbit-table td {
+  padding: 10px 12px;
+  text-align: center;
+}
+
+.rabbit-table th {
+  background: #1abc9c;
+  color: #fff;
+  font-weight: 600;
+}
+
+.rabbit-table tr:nth-child(even) {
+  background: #e0f7fa;
+}
+
+.rabbit-table tr:hover {
+  background: #b2dfdb55;
+}
+
+.input-table {
+  width: 70px;
+  padding: 4px 6px;
+  border: 1px solid #bdbdbd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.error {
+  color: #e74c3c;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.no-result {
+  margin-top: 18px;
+  color: #888;
+  text-align: center;
+}
+
+/* Botón Seleccionar Todo bonito */
+.select-all-btn {
+    background: #f9fafb;
+    color: #1abc9c;
+    border: 2px solid #1abc9c;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 2px 8px #1abc9c11;
+    letter-spacing: 0.5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: background 0.2s, color 0.2s, border 0.2s, box-shadow 0.2s;
+}
+
+.select-all-btn:hover {
+    background: #e0f7fa;
+    color: #16a085;
+    border-color: #16a085;
+    box-shadow: 0 4px 16px #1abc9c22;
+}
+
+.input-error {
+    border: 2px solid #e74c3c !important;
+    background: #fdecea;
+}
+
+.input-warning {
+    border: 2px solid #ff9800 !important;
+    background: #fff8e1;
+}
+
+.mensaje-app {
+    margin: 16px auto 0 auto;
+    max-width: 600px;
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-size: 1.08rem;
+    text-align: center;
+    font-weight: 500;
+}
+
+.mensaje-app.error {
+    background: #fdecea;
+    color: #e74c3c;
+    border: 1.5px solid #e74c3c55;
+}
+
+.mensaje-app.success {
+    background: #eafaf1;
+    color: #16a085;
+    border: 1.5px solid #16a08555;
+}
+
+/* Checkbox personalizado */
+.rabbit-table input[type="checkbox"] {
+    width: 22px;
+    height: 22px;
+    accent-color: #1abc9c;
+    border-radius: 6px;
+    border: 2px solid #1abc9c;
+    background: #f9fafb;
+    transition: box-shadow 0.2s, border-color 0.2s;
+    cursor: pointer;
+    margin: 0 4px;
+}
+
+.rabbit-table input[type="checkbox"]:hover {
+    box-shadow: 0 0 0 2px #b2dfdb55;
+    border-color: #16a085;
+}
+
+.rabbit-table input[type="checkbox"]:checked {
+    background: #1abc9c;
+    border-color: #16a085;
+}
