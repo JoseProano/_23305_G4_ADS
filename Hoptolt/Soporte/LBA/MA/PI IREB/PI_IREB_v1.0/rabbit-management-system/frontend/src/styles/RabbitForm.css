@@ -1,0 +1,90 @@
+.rabbit-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 80vh;
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2dfdb 100%);
+    padding-top: 40px;
+}
+
+.rabbit-form-card {
+    background: #fff;
+    padding: 36px 32px 28px 32px;
+    border-radius: 14px;
+    box-shadow: 0 4px 24px #1abc9c22;
+    width: 100%;
+    max-width: 420px;
+}
+
+.rabbit-form-card h2 {
+    text-align: center;
+    color: #1abc9c;
+    margin-bottom: 22px;
+}
+
+.rabbit-form .form-group {
+    margin-bottom: 18px;
+}
+
+.rabbit-form label {
+    display: block;
+    margin-bottom: 6px;
+    color: #34495e;
+    font-weight: 500;
+}
+
+.rabbit-form input,
+.rabbit-form select {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 5px;
+    font-size: 1rem;
+    background: #f9fafb;
+    transition: border 0.2s;
+}
+
+.rabbit-form input:focus,
+.rabbit-form select:focus {
+    border-color: #1abc9c;
+    outline: none;
+}
+
+.help-text {
+    font-size: 0.85rem;
+    color: #888;
+    margin-top: 2px;
+    display: block;
+}
+
+.submit-btn {
+    width: 100%;
+    background: linear-gradient(90deg, #1abc9c 60%, #16a085 100%);
+    color: #fff;
+    border: none;
+    padding: 12px 0;
+    border-radius: 6px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background 0.2s;
+}
+
+.submit-btn:hover {
+    background: linear-gradient(90deg, #16a085 60%, #1abc9c 100%);
+}
+
+.success-msg {
+    color: #16a085;
+    text-align: center;
+    margin-top: 18px;
+    font-weight: bold;
+}
+
+.error-msg {
+    color: #e74c3c;
+    text-align: center;
+    margin-top: 18px;
+    font-weight: bold;
+}
