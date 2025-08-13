@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | HU – Historias de Usuario                                     |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 19/06/2025                                                    |
 | **Línea base**          | LBA                                                           |
 | **Estado**              | aprobado                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v3.0      | 19/06/2025         | Competición de descripción de los últimos requisitos agregados         | Cristian Robalino  | José Proaño  |

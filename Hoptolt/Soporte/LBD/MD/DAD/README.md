@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | DAD – Diagrama de Arquitectura de Diseño                       |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 05/08/2025                                                    |
 | **Línea base**          | LBD                                                           |
 | **Estado**              | revisión                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v1.0      | 22/07/2025         | Diagrama de Arquitectura primera versión           | José Proaño   | José Proaño  |

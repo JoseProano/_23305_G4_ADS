@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | PI IREB – Prototipo inicial IREB                               |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 20/05/2025                                                    |
 | **Línea base**          | LBA                                                           |
 | **Estado**              | aprobado                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v1.0      | 20/05/2025         | Prototipo Funcional En base a los requisitos IREB           | José Proaño  | José Proaño  |

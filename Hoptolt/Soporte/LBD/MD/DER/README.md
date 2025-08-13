@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | DER – Diagrama Entidad-Relación                               |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 06/08/2025                                                    |
 | **Línea base**          | LBD                                                           |
 | **Estado**              | revisión                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v2.0      | 06/08/2025         | Diagrama de Entidad-Relación sobre sprint 3 con Descripción    | Cristian Robalino  | José Proaño  |

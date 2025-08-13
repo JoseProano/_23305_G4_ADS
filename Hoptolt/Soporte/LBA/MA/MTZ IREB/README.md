@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | MTZ IREB – Matriz IREB control calidad ERS                    |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 06/05/2025                                                    |
 | **Línea base**          | LBA                                                           |
 | **Estado**              | aprobado                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v3.0      | 06/05/2025         | Corrección de Recomendación tercer requisito         | Cristian Robalino  | José Proaño  |

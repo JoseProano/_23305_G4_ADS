@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | CB – Código Backend                                           |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 06/08/2025                                                    |
 | **Línea base**          | LBI                                                           |
 | **Estado**              | revisión                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v3.0      | 06/08/2025         | Prototipo Funcional Sprint 3 Backend          | Cristian Robalino  | José Proaño  |
