@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | PUF – Pruebas unitarias frontend                               |
@@ -10,3 +11,9 @@
 | **Fecha última modif.** | 06/08/2025                                                    |
 | **Línea base**          | LBP                                                           |
 | **Estado**              | revisión                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v1.0      | 06/08/2025         | Pruebas de frontenf sobre el sprint 3          | Cristian Robalino  | José Proaño  |

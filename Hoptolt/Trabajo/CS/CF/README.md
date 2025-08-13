@@ -1,3 +1,4 @@
+## Detalles ECS
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | CF (frontend) – Código Frontend                               |
@@ -10,3 +11,11 @@
 | **Fecha última modif.** | 06/08/2025                                                    |
 | **Línea base**          | LBI                                                           |
 | **Estado**              | revisión                                 |
+
+## Tabla de cambios
+
+| Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
+|-----------|--------------------|--------------------|--------------|--------------|
+| v1.0      | 25/06/2025         | Prototipo Funcional Sprint 1 Frontend           | José Proaño  | José Proaño  |
+| v2.0      | 02/07/2025         | Prototipo Funcional Sprint 2 Frontend     | Darwin Panchez  | José Proaño  |
+| v3.0      | 06/08/2025         | Prototipo Funcional Sprint 3 Frontend          | Cristian Robalino  | José Proaño  |

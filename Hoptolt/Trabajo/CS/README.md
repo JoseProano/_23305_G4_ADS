@@ -1,3 +1,5 @@
+## Detalles ECS
+
 | Campo                   | Detalles                                                       |
 |-------------------------|----------------------------------------------------------------|
 | **Carpeta**             | CS – Código del Sistema                                             |
@@ -9,3 +11,4 @@
 | **Fecha última modif.** | 06/08/2025                                                    |
 | **Línea base**          | LBI                                                           |
 | **Estado**              | revisión                                 |
+
