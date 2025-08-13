@@ -10,3 +10,8 @@
 | **Fecha última modif.** | 17/07/2025                                                    |
 | **Línea base**          | LBR                                                           |
 | **Estado**              | aprobado                                 |
+
+
+| Versión   | Fecha Modificación    | Descripción Cambio    | Autor/es  | Aprobado Por    |
+|-------------------------|----------------------------------------------------------------|
+| v0.0   | 23/07/2025    | Mejora    | José Proaño  | José Proaño    |
