@@ -17,4 +17,7 @@
 
 | Versión   | Fecha Modificación | Descripción Cambio | Autor/es     | Aprobado Por |
 |-----------|--------------------|--------------------|--------------|--------------|
-| v0.0      | 23/07/2025         | Mejora             | José Proaño  | José Proaño  |
+| v0.0      | 29/04/2025         | SRS                | Darwin Panchez  | José Proaño  |
+| v1.0      | 29/05/2025         | Requisitos aumento de CRUD Imcompleto            | José Proaño  | José Proaño  |
+| v2.0      | 29/05/2025         | Versión actualizada con 24 requisitos              | Cristian Robalino  | José Proaño  |
+| v3.0      | 17/06/2025         | Mejora de redacción de Requisitos             | Darwin Panchez  | José Proaño  |
